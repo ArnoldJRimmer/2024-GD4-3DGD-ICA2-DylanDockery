@@ -20,4 +20,4 @@
 6. **Link to Youtube video
    - Source: [Dylans Screencast](https://youtu.be/_rzfIMVOdNo)
   
-7. ** Link to Github Repo:[](https://github.com/ArnoldJRimmer/2024-GD4-3DGD-ICA2-DylanDockery)
+7. ** Link to Github Repo:[Github Repo](https://github.com/ArnoldJRimmer/2024-GD4-3DGD-ICA2-DylanDockery)
