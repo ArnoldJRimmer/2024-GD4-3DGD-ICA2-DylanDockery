@@ -24,11 +24,11 @@ Material:
     MotionVector: User
     RenderType: Transparent
   disabledShaderPasses:
-  - TransparentDepthPrepass
+  - MOTIONVECTORS
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
-  - MOTIONVECTORS
+  - TransparentDepthPrepass
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -90,7 +90,7 @@ Material:
     - _RequireSplitLighting: 0
     - _Scale_X: 3
     - _Scale_Y: 1
-    - _Splotch_Size: 1
+    - _Splotch_Size: 2
     - _Splotch_Spasm_X: 1
     - _Splotch_Spasm_Y: 1
     - _SrcBlend: 1

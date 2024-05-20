@@ -190,6 +190,12 @@
         "com.unity.render-pipelines.core": "14.0.9"
       }
     },
+    "com.whinarn.unitymeshsimplifier": {
+      "version": "file:C:/Users/dylan/Downloads/UnityMeshSimplifier-master/UnityMeshSimplifier-master",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
